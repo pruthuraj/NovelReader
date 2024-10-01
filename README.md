@@ -1,0 +1,2 @@
+# NovelReader
+react native application
